@@ -9,3 +9,8 @@ git commit -m "Nombre del cambio"  (se corre despues del add. )
 git push origin "nombre de la rama" (se copia el archivo en cuestion en la rama del repositorio que deseas)
 
 git checkout -b "Nombre de la nueva rama" (asi se crea una rama en el repositorio)
+
+git branch -d "Nombre de la rama que quieres borrar"
+
+git checkout "nombre de la rama a la que quieres pasar"
+
