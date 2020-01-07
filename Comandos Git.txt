@@ -1,0 +1,11 @@
+Comandos git
+
+git status (sirve para revisar el estado en el repositorio)
+
+git add . (el punto es para añadir todos los archivos de la carpeta, caso contrario, especifica el archivo en lugar del punto)
+
+git commit -m "Nombre del cambio"  (se corre despues del add. )
+
+git push origin "nombre de la rama" (se copia el archivo en cuestion en la rama del repositorio que deseas)
+
+git checkout -b "Nombre de la nueva rama" (asi se crea una rama en el repositorio)
