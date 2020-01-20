@@ -19,9 +19,6 @@ import com.isil.usermanagement.util.Constants;
  */
 public class UserDAO {
 
-	public UserDAO() {
-	}
-
 
 	public void insertUser(User user) throws SQLException {
 		System.out.println(Constants.INSERT_USERS_SQL);
